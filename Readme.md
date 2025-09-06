@@ -22,5 +22,5 @@ It comes with a backend service that handles requests, processes AI responses, a
 - **Database**: (if applicable, e.g., MongoDB, PostgreSQL, etc.)
 - **Deployment**: Docker / Vercel / AWS / (your choice)
 
---- **Shailendra**
+
 
